@@ -1,0 +1,8 @@
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\ChatEtChien\ChatEtChien\bin\Debug\ChatEtChien.exe.config
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\ChatEtChien\ChatEtChien\bin\Debug\ChatEtChien.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\ChatEtChien\ChatEtChien\bin\Debug\ChatEtChien.pdb
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\ChatEtChien\ChatEtChien\obj\Debug\ChatEtChien.csproj.AssemblyReference.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\ChatEtChien\ChatEtChien\obj\Debug\ChatEtChien.csproj.SuggestedBindingRedirects.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\ChatEtChien\ChatEtChien\obj\Debug\ChatEtChien.csproj.CoreCompileInputs.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\ChatEtChien\ChatEtChien\obj\Debug\ChatEtChien.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\ChatEtChien\ChatEtChien\obj\Debug\ChatEtChien.pdb

@@ -1,0 +1,16 @@
+C:\Code\Prog2\Lab-9\laboratoire\Construction\obj\Debug\Construction.csproj.AssemblyReference.cache
+C:\Code\Prog2\Lab-9\laboratoire\Construction\obj\Debug\Construction.csproj.SuggestedBindingRedirects.cache
+C:\Code\Prog2\Lab-9\laboratoire\Construction\obj\Debug\Construction.csproj.CoreCompileInputs.cache
+C:\Code\Prog2\Lab-9\laboratoire\Construction\bin\Debug\Construction.exe.config
+C:\Code\Prog2\Lab-9\laboratoire\Construction\bin\Debug\Construction.exe
+C:\Code\Prog2\Lab-9\laboratoire\Construction\bin\Debug\Construction.pdb
+C:\Code\Prog2\Lab-9\laboratoire\Construction\obj\Debug\Construction.exe
+C:\Code\Prog2\Lab-9\laboratoire\Construction\obj\Debug\Construction.pdb
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Construction\bin\Debug\Construction.exe.config
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Construction\bin\Debug\Construction.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Construction\bin\Debug\Construction.pdb
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Construction\obj\Debug\Construction.csproj.AssemblyReference.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Construction\obj\Debug\Construction.csproj.SuggestedBindingRedirects.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Construction\obj\Debug\Construction.csproj.CoreCompileInputs.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Construction\obj\Debug\Construction.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Construction\obj\Debug\Construction.pdb

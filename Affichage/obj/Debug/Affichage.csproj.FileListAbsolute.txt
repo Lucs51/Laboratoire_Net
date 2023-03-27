@@ -1,0 +1,15 @@
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\Affichage.exe.config
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\Affichage.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\Affichage.pdb
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\Humanizer.dll
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\Humanizer.xml
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\fr\Humanizer.resources.dll
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\obj\Debug\Affichage.csproj.AssemblyReference.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\obj\Debug\Affichage.csproj.SuggestedBindingRedirects.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\obj\Debug\Affichage.csproj.CoreCompileInputs.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\obj\Debug\Affichage.csproj.CopyComplete
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\obj\Debug\Affichage.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\obj\Debug\Affichage.pdb
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\Colorful.Console.dll
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\Figgle.dll
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Affichage\bin\Debug\Figgle.xml
