@@ -1,0 +1,8 @@
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Films\Films\bin\Debug\Films.exe.config
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Films\Films\bin\Debug\Films.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Films\Films\bin\Debug\Films.pdb
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Films\Films\obj\Debug\Films.csproj.AssemblyReference.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Films\Films\obj\Debug\Films.csproj.SuggestedBindingRedirects.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Films\Films\obj\Debug\Films.csproj.CoreCompileInputs.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Films\Films\obj\Debug\Films.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Films\Films\obj\Debug\Films.pdb

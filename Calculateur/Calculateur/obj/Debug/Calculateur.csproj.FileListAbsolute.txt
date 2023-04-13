@@ -1,0 +1,8 @@
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Calculateur\Calculateur\bin\Debug\Calculateur.exe.config
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Calculateur\Calculateur\bin\Debug\Calculateur.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Calculateur\Calculateur\bin\Debug\Calculateur.pdb
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Calculateur\Calculateur\obj\Debug\Calculateur.csproj.AssemblyReference.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Calculateur\Calculateur\obj\Debug\Calculateur.csproj.SuggestedBindingRedirects.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Calculateur\Calculateur\obj\Debug\Calculateur.csproj.CoreCompileInputs.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Calculateur\Calculateur\obj\Debug\Calculateur.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\Calculateur\Calculateur\obj\Debug\Calculateur.pdb

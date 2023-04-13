@@ -1,0 +1,8 @@
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\L'agence\L'agence\bin\Debug\L'agence.exe.config
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\L'agence\L'agence\bin\Debug\L'agence.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\L'agence\L'agence\bin\Debug\L'agence.pdb
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\L'agence\L'agence\obj\Debug\L'agence.csproj.AssemblyReference.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\L'agence\L'agence\obj\Debug\L'agence.csproj.SuggestedBindingRedirects.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\L'agence\L'agence\obj\Debug\L'agence.csproj.CoreCompileInputs.cache
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\L'agence\L'agence\obj\Debug\L'agence.exe
+M:\Documents\Code\POO\semaine9\Laboratoire_Net\L'agence\L'agence\obj\Debug\L'agence.pdb
